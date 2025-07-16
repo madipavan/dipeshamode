@@ -8,8 +8,8 @@
 - 🌱 Learning **System Design & Clean Architecture** for scalable cross-platform apps.
 - 👯 Looking to collaborate on **Open Source Billing Systems**, Flutter plugins, and fintech tools that help small businesses.
 - 🤔 Looking for help with **advanced Firebase batch operations** and **in-app updates** for desktop apps.
-- 💬 Ask me about **Flutter, Firebase, BLoC, Riverpod, Node.js, Dart, and building production-ready desktop apps**.
-- 📫 Reach me at: [your_email@gmail.com]
+- 💬 Ask me about **Flutter, Firebase, BLoC, Dsa, Oops, Node.js, Dart, and building production-ready flutter apps**.
+- 📫 Reach me at: [amodedipesh12@gmail.com]
 - ⚡ Fun fact: Turning a centuries-old fruit business into a digital experience – one bill at a time! 🍌✨
 
 ---
@@ -31,7 +31,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Dipesh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madipavan&show_icons=true&theme=tokyonight" alt="Dipesh's GitHub stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
