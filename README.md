@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm Dipesh Amode</h1>
-<h3 align="center">🌱 Flutter & Backend Developer | Building a digital-first banana brokerage app 🍌</h3>
+<h3 align="center">🌱 A passionate Flutter developer from India</h3>
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on **Vyapari CFO** – a Flutter desktop app for banana brokers to manage billing, khatas, and farmer transactions, built with Firebase & Fluent UI.
+- 🔭 Currently working on **Banana Brokers** – a Flutter desktop app for banana brokers to manage billing, khatas, and farmer transactions, built with Firebase & Fluent UI.
 - 🌱 Learning **System Design & Clean Architecture** for scalable cross-platform apps.
 - 👯 Looking to collaborate on **Open Source Billing Systems**, Flutter plugins, and fintech tools that help small businesses.
 - 🤔 Looking for help with **advanced Firebase batch operations** and **in-app updates** for desktop apps.
