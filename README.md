@@ -1,24 +1,20 @@
-#    <h1 align="center">Hi 👋, I'm Dipesh Amode</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
-# 💫 About Me:
-🔭 I’m currently working on: **Banana Broker** – a banana brokerage desktop application built with Flutter, Firebase, and Fluent UI, helping brokers manage bills, khatas, and farmer transactions seamlessly.
+<h1 align="center">👋 Hi, I'm Dipesh Amode</h1>
+<h3 align="center">🌱 Flutter & Backend Developer | Building a digital-first banana brokerage app 🍌</h3>
 
-🤔 I’m looking for help with: advanced Firebase batch operations, in-app update systems for desktop, and optimizing real-time data sync in Flutter.
+---
 
-💬 Ask me about: **Flutter**, **Firebase**, **BLoC**, Dart best practices, and building production-ready desktop apps.
+## 🚀 About Me
+- 🔭 Currently working on **Vyapari CFO** – a Flutter desktop app for banana brokers to manage billing, khatas, and farmer transactions, built with Firebase & Fluent UI.
+- 🌱 Learning **System Design & Clean Architecture** for scalable cross-platform apps.
+- 👯 Looking to collaborate on **Open Source Billing Systems**, Flutter plugins, and fintech tools that help small businesses.
+- 🤔 Looking for help with **advanced Firebase batch operations** and **in-app updates** for desktop apps.
+- 💬 Ask me about **Flutter, Firebase, BLoC, Riverpod, Node.js, Dart, and building production-ready desktop apps**.
+- 📫 Reach me at: [your_email@gmail.com]
+- ⚡ Fun fact: Turning a centuries-old fruit business into a digital experience – one bill at a time! 🍌✨
 
-📫 How to reach me: [amodedipesh12@gmail.com]
+---
 
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I’m turning a centuries-old fruit business into a digital-first experience – one bill at a time! 🍌✨
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/dipeshamode)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amodedipesh12@gmail.com) 
-
-# 💻 Tech Stack:
+## 💻 Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -31,26 +27,28 @@
 ![OOP](https://img.shields.io/badge/Object Oriented Programming-000000?style=for-the-badge)
 ![DSA](https://img.shields.io/badge/Data Structures & Algorithms-000000?style=for-the-badge)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamharshpatil&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iamharshpatil&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamharshpatil&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamharshpatil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iamharshpatil&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Dipesh's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iamharshpatil&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
